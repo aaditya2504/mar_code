@@ -13,9 +13,9 @@
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/aaditya2504/mar_code/issues"
+    "url": "https://github.com/Dhrity1112/code/issues"
   },
-  "homepage": " https://aaditya2504.github.io/mar_code/",
+  "homepage": " https://Dhrity1112.github.io/code/",
   "dependencies": {
     "clean-webpack-plugin": "^3.0.0",
     "express": "^4.17.1",

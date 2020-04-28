@@ -13,7 +13,7 @@ body {
     animation: fadeInAnimation ease 5s;
     animation-iteration-count: 1; 
     animation-fill-mode: forwards;
-    overflow-x: hidden;
+ /* overflow-x: hidden; */
 }
 
 @keyframes fadeInAnimation { 
