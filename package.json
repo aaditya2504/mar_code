@@ -1,0 +1,23 @@
+{
+  "name": "code",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "build": "parcel build server.js",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aaditya2504/mar_code/issues"
+  },
+  "homepage": "https://github.com/aaditya2504/mar_code#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "gh-pages": "^2.2.0"
+  }
+}
